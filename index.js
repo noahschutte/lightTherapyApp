@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import LightTherapy from './LightTherapy';
 
-AppRegistry.registerComponent('LightTherapy', () => App);
+AppRegistry.registerComponent('lightTherapyApp', () => LightTherapy);

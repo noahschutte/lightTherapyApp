@@ -8,7 +8,10 @@
 	},
 	"dependencies": {
 		"react": "16.0.0",
-		"react-native": "0.50.3"
+		"react-native": "0.50.3",
+		"react-native-color-picker": "^0.4.0",
+		"react-native-modal": "^4.1.1",
+		"react-native-vector-icons": "^4.4.2"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",
