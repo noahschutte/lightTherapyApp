@@ -1,0 +1,3 @@
+rootProject.name = 'LightTherapy'
+
+include ':app'
